@@ -1,0 +1,17 @@
+.data-container {
+    border: 2px solid black;
+    display: inline-block;
+    align-items: center;
+    margin-inline: 100px;
+}
+
+
+.data-container img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 200px;
+}
+
+.data-container h4 {
+    margin: 0;
+}
